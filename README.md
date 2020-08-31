@@ -1,4 +1,4 @@
-# Landing Page For A Fashion Magazine Website 🖖
+# Landing Page For A Fashion Magazine's Website 🖖
 ## Animated, cool landing page for a modern fashion magazine's website 🤳
 
 ## 👉[See it live!](https://proghead00.github.io/Landing-Page-For-Fashion-Magazine/)👈
